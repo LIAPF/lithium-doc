@@ -5,10 +5,13 @@ layout: home
 hero:
   name: "Lithium JS"
   text: "Framework Frontend for Lit"
-  tagline: My great project tagline
+  tagline: Build distributed applications
+  image:
+    src: https://lit.dev/images/flame-favicon.svg
+    alt: Lit
   actions:
     - theme: brand
-      text: Markdown Examples
+      text: Documentation
       link: /markdown-examples
     - theme: alt
       text: API Examples
